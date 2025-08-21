@@ -6,7 +6,8 @@ A data warehousing project that demonstrates **ETL (Extract, Transform, Load)**,
 
 ## 📁 Project Structure
 - `warehouse.sql` → Database schema, tables, and queries  
-- `ETL.py` → Sample Python script for data processing   
+- `ETL.py` → Sample Python script for data processing 
+- `ETL.pdf` → pdf report of jupyter notebook python code   
 - `Cleand superstore.xlsx` → Source dataset used in analysis  
 
 ---
